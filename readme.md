@@ -29,7 +29,7 @@ That it you are ready to use logvirgins to log out beautiful text on console
 #### syntax
 ```javascript
   // loging 
-  log([value], color[..optional])
+  log([value], color[r, g,blu,y,cy,blc, [red, green, blue, yellow, cyan, black]][..optional])
   //displaying tables
   table([..obj])
   //logging out info
@@ -58,7 +58,21 @@ That it you are ready to use logvirgins to log out beautiful text on console
 #### logging out text with colors
 
 ```javascript
-    log("hello from logvirgins")
-    
-    //output hello from logvirgins
+    log("hello from logvirgins", valid color name)
+    //output
+    ```diff
+        - hello from logvirgins
+        + hello from logvirgins
+    ```
 ```
+
+#### logging out objects in table format
+
+```javascript 
+
+  table(["apples", "oranges", "bananas"])
+   // output 
+```
+|    0   |    1   |     2    |
+|-----------------|----------|
+| applesl| oranges| bananas  |
