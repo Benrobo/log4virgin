@@ -62,15 +62,9 @@ That it you are ready to use logvirgins to log out beautiful text on console
     //output
 ```
 ```diff
-    - hello from logvirgins
-    + hello from logvirgins
-```
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- hello from logvirgins
++ hello from logvirgins
+! hello from logvirgins
 ```
 #### logging out objects in table format
 
