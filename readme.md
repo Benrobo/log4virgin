@@ -1,3 +1,3 @@
-<p align="center"><img src="https://github.com/Benrobo/LoggerJs/blob/main/logger/icon/60dbe70699dc49c497cdf5f358a0b4fe.png"></p>
+<p align="center"><img src="https://github.com/Benrobo/log4virgin/blob/main/log4virgin/icon/bae37b1f616249c6a623c880ce0f8f92.png"></p>
 
 ## Logger.js
