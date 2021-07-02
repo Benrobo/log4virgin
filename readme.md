@@ -73,4 +73,4 @@ That it you are ready to use logvirgins to log out beautiful text on console
   table(["apples", "oranges", "bananas"])
    // output 
 ```
-<img src="https://github.com/Benrobo/logvirgin/blob/main/logvirgin/icon/tab.PNG">
+<img src="https://github.com/Benrobo/log4virgin/blob/main/log4virgin/icon/tab.png">
