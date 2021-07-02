@@ -20,16 +20,45 @@ Logvirgins minimalist nodejs module for logging items in terminal
 
 #### Require the package into your nodejs project
 
-``` 
+```javascript
 const {log,table,info,error,count,cls,debug} = require("logvirgins")
-
 ```
 That it you are ready to use logvirgins to log out beautiful text on console
 
 ## Code Samples
+#### syntax
+```javascript
+  // loging 
+  log([value], color[..optional])
+  //displaying tables
+  table([..obj])
+  //logging out info
+  info([..string])
+  //logging errors
+  error(values)
+  //counter
+  // begining of loop
+  count()
+  // end of loop
+  count()
+  // debug console
+  debug([..obj])
+  // clear screen
+  cls()
 
--- logging default text 
+```
+#### logging default text 
 
 ```javascript
     log("hello from logvirgins")
+    
+    //output hello from logvirgins
+```
+
+#### logging out text with colors
+
+```javascript
+    log("hello from logvirgins")
+    
+    //output hello from logvirgins
 ```
