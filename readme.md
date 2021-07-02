@@ -29,6 +29,7 @@ That it you are ready to use logvirgins to log out beautiful text on console
 ## Code Samples
 
 -- logging default text 
-```html
+
+```javascript
     log("hello from logvirgins")
 ```
