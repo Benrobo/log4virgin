@@ -60,12 +60,11 @@ That it you are ready to use logvirgins to log out beautiful text on console
 ```javascript
     log("hello from logvirgins", valid color name)
     //output
-    ```diff
-        - hello from logvirgins
-        + hello from logvirgins
-    ```
 ```
-
+```diff
+    - hello from logvirgins
+    + hello from logvirgins
+```
 #### logging out objects in table format
 
 ```javascript 
