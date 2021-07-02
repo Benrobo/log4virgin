@@ -4,16 +4,19 @@
   "description": "minimalist nodejs module for logging items in nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Benrobo/LoggerJs.git"
+    "url": "git+https://github.com/Benrobo/log4virgin.git"
   },
   "author": "Benrobo / Benrobo-tut",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Benrobo/LoggerJs/issues"
+    "url": "https://github.com/Benrobo/log4virgin/issues"
   },
-  "homepage": "https://github.com/Benrobo/LoggerJs#readme"
+  "homepage": "https://github.com/Benrobo/log4virgin#readme",
+  "dependencies": {
+    "mime-types": "^2.1.31"
+  }
 }
