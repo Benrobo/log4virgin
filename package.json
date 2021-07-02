@@ -1,5 +1,5 @@
 {
-  "name": "logvirgin",
+  "name": "log4virgin",
   "version": "1.0.0",
   "description": "minimalist nodejs library for logging items in nodejs",
   "main": "index.js",
