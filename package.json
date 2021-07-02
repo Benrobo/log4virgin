@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "minimalist nodejs module for logging items in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benrobo/LoggerJs.git"
+  },
+  "author": "Benrobo / Benrobo-tut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benrobo/LoggerJs/issues"
+  },
+  "homepage": "https://github.com/Benrobo/LoggerJs#readme"
+}
